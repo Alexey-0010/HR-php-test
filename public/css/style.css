@@ -1,0 +1,20 @@
+/*Css для отображения блока погоды в Брянске*/
+.weather{
+    height: 320px;
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 13%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.main-image{
+    height: 318px;
+    width: 100%;
+}
+
+.text-images{
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+}
